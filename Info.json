@@ -1,0 +1,12 @@
+{
+  "Id": "UnfairBalance",
+  "DisplayName": "Unfair Balance",
+  "Author": "Picninim piq",
+  "Version": "1.3.0",
+  "ManagerVersion": "0.23.0",
+  "GameVersion": "2.7.0",
+  "AssemblyName": "UnfairBalance.dll",
+  "EntryMethod": "UnfairBalance.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
